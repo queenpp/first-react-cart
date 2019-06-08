@@ -2,7 +2,7 @@ import Item1 from '../../images/crewsocks.jpg'
 import Item2 from '../../images/fishnetsocks2.jpg'
 import Item3 from '../../images/fruitsocks.jpg'
 import Item4 from '../../images/happysocks.jpg'
-import Item5 from '../../images/stripesbusiness.jpg'
+import Item5 from '../../images/stripesbusiness.png'
 import Item6 from '../../images/velvet.jpg'
 import { ADD_TO_CART,REMOVE_ITEM,SUB_QUANTITY,ADD_QUANTITY,ADD_SHIPPING } from '../actions/action-types/cart-actions'
 const initState = {
